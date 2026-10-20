@@ -1,0 +1,500 @@
+{
+  "generatedAt": "2026-10-20T08:28:42.815Z",
+  "environment": {
+    "nodeVersion": "v24.14.1",
+    "platform": "win32",
+    "arch": "x64"
+  },
+  "scalability": {
+    "100": {
+      "visitors": 100,
+      "completed": 30,
+      "durationMs": 9.11,
+      "rateVisitorsPerSec": 10982
+    },
+    "1000": {
+      "visitors": 1000,
+      "completed": 300,
+      "durationMs": 3.64,
+      "rateVisitorsPerSec": 274394
+    },
+    "10000": {
+      "visitors": 10000,
+      "completed": 3000,
+      "durationMs": 22.5,
+      "rateVisitorsPerSec": 444358
+    }
+  },
+  "developmentSuite": {
+    "suiteName": "Development Suite",
+    "seedCount": 20,
+    "meanSavedPerDay": 218.4,
+    "meanAddedPerDay": 7.6,
+    "meanNetPerDay": -210.8,
+    "meanVictimRate": 0.029,
+    "maxExtraWaitOverall": 13,
+    "perSeedRecords": [
+      {
+        "seed": 101,
+        "matched": 60,
+        "saved": 59,
+        "added": 34,
+        "net": -25,
+        "victimRate": 0.067,
+        "maxExtra": 13
+      },
+      {
+        "seed": 102,
+        "matched": 60,
+        "saved": 260,
+        "added": 0,
+        "net": -260,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 103,
+        "matched": 60,
+        "saved": 481,
+        "added": 0,
+        "net": -481,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 104,
+        "matched": 60,
+        "saved": 77,
+        "added": 12,
+        "net": -65,
+        "victimRate": 0.067,
+        "maxExtra": 5
+      },
+      {
+        "seed": 105,
+        "matched": 60,
+        "saved": 37,
+        "added": 20,
+        "net": -17,
+        "victimRate": 0.067,
+        "maxExtra": 9
+      },
+      {
+        "seed": 106,
+        "matched": 60,
+        "saved": 509,
+        "added": 0,
+        "net": -509,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 107,
+        "matched": 60,
+        "saved": 157,
+        "added": 2,
+        "net": -155,
+        "victimRate": 0.017,
+        "maxExtra": 2
+      },
+      {
+        "seed": 108,
+        "matched": 60,
+        "saved": 139,
+        "added": 0,
+        "net": -139,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 109,
+        "matched": 60,
+        "saved": 650,
+        "added": 0,
+        "net": -650,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 110,
+        "matched": 60,
+        "saved": 60,
+        "added": 1,
+        "net": -59,
+        "victimRate": 0.017,
+        "maxExtra": 1
+      },
+      {
+        "seed": 111,
+        "matched": 60,
+        "saved": 544,
+        "added": 0,
+        "net": -544,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 112,
+        "matched": 60,
+        "saved": 23,
+        "added": 13,
+        "net": -10,
+        "victimRate": 0.083,
+        "maxExtra": 7
+      },
+      {
+        "seed": 113,
+        "matched": 60,
+        "saved": 169,
+        "added": 1,
+        "net": -168,
+        "victimRate": 0.017,
+        "maxExtra": 1
+      },
+      {
+        "seed": 114,
+        "matched": 60,
+        "saved": 267,
+        "added": 0,
+        "net": -267,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 115,
+        "matched": 60,
+        "saved": 352,
+        "added": 12,
+        "net": -340,
+        "victimRate": 0.033,
+        "maxExtra": 6
+      },
+      {
+        "seed": 116,
+        "matched": 60,
+        "saved": 98,
+        "added": 10,
+        "net": -88,
+        "victimRate": 0.033,
+        "maxExtra": 6
+      },
+      {
+        "seed": 117,
+        "matched": 60,
+        "saved": 30,
+        "added": 21,
+        "net": -9,
+        "victimRate": 0.067,
+        "maxExtra": 10
+      },
+      {
+        "seed": 118,
+        "matched": 60,
+        "saved": 198,
+        "added": 2,
+        "net": -196,
+        "victimRate": 0.033,
+        "maxExtra": 1
+      },
+      {
+        "seed": 119,
+        "matched": 60,
+        "saved": 182,
+        "added": 20,
+        "net": -162,
+        "victimRate": 0.05,
+        "maxExtra": 8
+      },
+      {
+        "seed": 120,
+        "matched": 60,
+        "saved": 76,
+        "added": 4,
+        "net": -72,
+        "victimRate": 0.033,
+        "maxExtra": 3
+      }
+    ]
+  },
+  "heldOutSuite": {
+    "suiteName": "Held-Out Evaluation Suite",
+    "seedCount": 30,
+    "meanSavedPerDay": 233.3,
+    "meanAddedPerDay": 6.1,
+    "meanNetPerDay": -227.2,
+    "meanVictimRate": 0.022,
+    "maxExtraWaitOverall": 14,
+    "perSeedRecords": [
+      {
+        "seed": 201,
+        "matched": 60,
+        "saved": 66,
+        "added": 9,
+        "net": -57,
+        "victimRate": 0.033,
+        "maxExtra": 6
+      },
+      {
+        "seed": 202,
+        "matched": 60,
+        "saved": 72,
+        "added": 3,
+        "net": -69,
+        "victimRate": 0.017,
+        "maxExtra": 3
+      },
+      {
+        "seed": 203,
+        "matched": 60,
+        "saved": 238,
+        "added": 6,
+        "net": -232,
+        "victimRate": 0.033,
+        "maxExtra": 4
+      },
+      {
+        "seed": 204,
+        "matched": 60,
+        "saved": 191,
+        "added": 0,
+        "net": -191,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 205,
+        "matched": 60,
+        "saved": 28,
+        "added": 32,
+        "net": 4,
+        "victimRate": 0.1,
+        "maxExtra": 12
+      },
+      {
+        "seed": 206,
+        "matched": 60,
+        "saved": 426,
+        "added": 0,
+        "net": -426,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 207,
+        "matched": 60,
+        "saved": 350,
+        "added": 0,
+        "net": -350,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 208,
+        "matched": 60,
+        "saved": 471,
+        "added": 0,
+        "net": -471,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 209,
+        "matched": 60,
+        "saved": 561,
+        "added": 0,
+        "net": -561,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 210,
+        "matched": 60,
+        "saved": 104,
+        "added": 14,
+        "net": -90,
+        "victimRate": 0.05,
+        "maxExtra": 8
+      },
+      {
+        "seed": 211,
+        "matched": 60,
+        "saved": 126,
+        "added": 1,
+        "net": -125,
+        "victimRate": 0.017,
+        "maxExtra": 1
+      },
+      {
+        "seed": 212,
+        "matched": 60,
+        "saved": 379,
+        "added": 0,
+        "net": -379,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 213,
+        "matched": 60,
+        "saved": 48,
+        "added": 46,
+        "net": -2,
+        "victimRate": 0.133,
+        "maxExtra": 13
+      },
+      {
+        "seed": 214,
+        "matched": 60,
+        "saved": 177,
+        "added": 0,
+        "net": -177,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 215,
+        "matched": 60,
+        "saved": 412,
+        "added": 0,
+        "net": -412,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 216,
+        "matched": 60,
+        "saved": 180,
+        "added": 0,
+        "net": -180,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 217,
+        "matched": 60,
+        "saved": 132,
+        "added": 0,
+        "net": -132,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 218,
+        "matched": 60,
+        "saved": 952,
+        "added": 0,
+        "net": -952,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 219,
+        "matched": 60,
+        "saved": 462,
+        "added": 0,
+        "net": -462,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 220,
+        "matched": 60,
+        "saved": 264,
+        "added": 0,
+        "net": -264,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 221,
+        "matched": 60,
+        "saved": 103,
+        "added": 2,
+        "net": -101,
+        "victimRate": 0.033,
+        "maxExtra": 1
+      },
+      {
+        "seed": 222,
+        "matched": 60,
+        "saved": 107,
+        "added": 0,
+        "net": -107,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 223,
+        "matched": 60,
+        "saved": 165,
+        "added": 0,
+        "net": -165,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 224,
+        "matched": 60,
+        "saved": 13,
+        "added": 41,
+        "net": 28,
+        "victimRate": 0.083,
+        "maxExtra": 14
+      },
+      {
+        "seed": 225,
+        "matched": 60,
+        "saved": 42,
+        "added": 9,
+        "net": -33,
+        "victimRate": 0.05,
+        "maxExtra": 5
+      },
+      {
+        "seed": 226,
+        "matched": 60,
+        "saved": 167,
+        "added": 0,
+        "net": -167,
+        "victimRate": 0,
+        "maxExtra": 0
+      },
+      {
+        "seed": 227,
+        "matched": 60,
+        "saved": 101,
+        "added": 2,
+        "net": -99,
+        "victimRate": 0.017,
+        "maxExtra": 2
+      },
+      {
+        "seed": 228,
+        "matched": 60,
+        "saved": 146,
+        "added": 15,
+        "net": -131,
+        "victimRate": 0.067,
+        "maxExtra": 7
+      },
+      {
+        "seed": 229,
+        "matched": 60,
+        "saved": 164,
+        "added": 1,
+        "net": -163,
+        "victimRate": 0.017,
+        "maxExtra": 1
+      },
+      {
+        "seed": 230,
+        "matched": 60,
+        "saved": 352,
+        "added": 3,
+        "net": -349,
+        "victimRate": 0.017,
+        "maxExtra": 3
+      }
+    ]
+  }
+}
